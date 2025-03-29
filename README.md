@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Master DSA - DSA Learning Platform
 
 ## Project Overview
@@ -40,3 +41,7 @@ The DSA Learning frontend website is a React-based application designed to provi
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
+=======
+# Master-DSA---Learning-Platform
+The DSA Learning frontend website is a React-based application designed to provide educational content on various data structures and algorithms. The project uses modern web development tools and libraries to create an interactive and user-friendly experience.
+>>>>>>> 9051bb51c638948bbe75175aacf6d54ab283e681
